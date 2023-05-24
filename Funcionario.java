@@ -1,2 +1,7 @@
-package PACKAGE_NAME;public class Funcionario {
+public abstract class Funcionario {
+    private String nome;
+    private String horarioEntrada;
+    private double salario;
+    private double bonificacao;
+
 }
